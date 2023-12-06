@@ -1,0 +1,17 @@
+*.pyc
+__pycache__
+*.pyo
+*.pyd
+db.sqlite3
+venv/
+pipenv/
+.vscode/
+*.pyc
+*.pyo
+*.pyd
+*.pyc
+*.pyo
+*.pyd
+*.pyc
+*.pyo
+*.pyd
